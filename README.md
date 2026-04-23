@@ -8,7 +8,7 @@ Una pantalla de perfil de usuario, profesional e interactiva desarrollada como p
 * **Tipado Seguro:** Construido al 100% con **TypeScript** para un código robusto y menos errores.
 * **Enfoque en UX:** Incluye `Keyboard.dismiss` al tocar la pantalla y alertas interactivas.
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologías utilizadas
 **Framework:** React Native (Expo)
 **Lenguaje:** TypeScript
 **Safe Area:** React Native Safe Area Context
